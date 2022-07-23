@@ -1,2 +1,2 @@
-# Course4Lesson2
-Docker containers
+# Course4Lesson2CircleciSetup
+Test and debug lesson2 demo with circleci
